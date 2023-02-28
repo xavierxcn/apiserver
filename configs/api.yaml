@@ -1,0 +1,21 @@
+serve:
+  run_mode: debug
+  addr: 0.0.0.0:8765
+  health:
+    max_ping_count: 10
+    url: http://127.0.0.1:8765
+  jwt_secret: 123
+
+mysql:
+  host: 172.16.8.20
+  port: 3306
+  user: root
+  password: 123456
+  database: apiserver_dev
+
+log:
+  level: debug
+  format: json
+  output:
+    - /var/log/api.log
+    - stdout

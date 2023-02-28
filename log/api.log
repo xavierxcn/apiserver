@@ -1,0 +1,152 @@
+2022-07-04 16:15:27.165	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:15:27.165	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:67\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:17:09.612	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:17:09.612	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:67\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:17:54.595	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:17:54.595	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:67\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:19:45.464	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:19:45.465	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:67\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:29:11.764	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:29:11.764	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:75\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:29:56.859	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:29:56.859	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:76\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:32:50.092	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:32:50.092	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:76\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:32:58.985	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:32:58.985	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:76\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:35:08.752	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:35:08.752	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:76\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:35:23.875	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:35:23.875	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:76\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:35:55.568	[34mINFO[0m	boot/boot.go:57	Start to listening the incoming requests on http address: 
+2022-07-04 16:35:55.568	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:76\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:38:12.913	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:38:12.914	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:40:55.477	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:40:55.477	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:41:43.181	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:41:43.181	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:42:55.769	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:42:55.769	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:43:00.012	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:43:00.012	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:43:08.576	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:43:08.576	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:43:35.330	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:43:39.464	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:45:51.948	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:45:52.635	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:47:51.020	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:47:51.021	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:52.022	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:53.023	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:54.025	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:55.026	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:56.028	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:57.029	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:58.031	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:47:59.033	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:48:00.034	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:48:01.037	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:50:16.535	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:50:16.535	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:17.537	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:18.538	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:19.539	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:20.541	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:21.551	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:22.552	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:23.554	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:24.555	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:25.557	[34mINFO[0m	boot/boot.go:66	Waiting for the router, retry in 1 second.
+2022-07-04 16:50:26.558	[31mFATAL[0m	boot/boot.go:35	The router has no response, or it might took too long to start up.	{"err": "Cannot connect to the router.", "errVerbose": "Cannot connect to the router.\ngithub.com/xavierxcn/apiserver/internal/boot.pingServer\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:69\ngithub.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1\n\t/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:34\nruntime.goexit\n\t/Users/xiangyufan/go/go1.17.11/src/runtime/asm_arm64.s:1133"}
+github.com/xavierxcn/apiserver/internal/boot.ServeBoot.func1
+	/Users/xiangyufan/code/github.com/xavierxcn/apiserver/internal/boot/boot.go:35
+2022-07-04 16:50:50.814	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 16:50:50.816	[34mINFO[0m	boot/boot.go:37	The router has been deployed successfully.
+2022-07-04 17:16:29.193	[34mINFO[0m	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 17:16:29.194	[34mINFO[0m	boot/boot.go:37	The router has been deployed successfully.
+2022-07-04 17:23:31.745	[33mWARN[0m	config/config.go:99	Config file changed: configs/api.yaml
+2022-07-04 17:37:04.970	[33mWARN[0m	config/config.go:99	Config file changed: configs/api.yaml
+2022-07-04 17:38:28.950	INFO	boot/boot.go:50	Start to listening the incoming requests on http address: 
+2022-07-04 17:38:28.951	INFO	boot/boot.go:37	The router has been deployed successfully.
+2023-01-11 16:02:12.804	INFO	task/task.go:19	run task
+2023-01-11 16:02:12.805	ERROR	client/client.go:38	could not get kubeconfig file in: /Users/yu.yang02/.kube/config
+2023-01-11 16:02:12.805	INFO	boot/boot.go:52	Start to listening the incoming requests on http address: 
+2023-01-11 16:02:12.809	INFO	boot/boot.go:39	The router has been deployed successfully.
+2023-01-11 16:02:13.002	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:14.003	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:15.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:16.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:17.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:18.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:19.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:20.004	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:21.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:22.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:23.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:24.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:25.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:26.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:27.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:28.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:29.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:30.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:31.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:32.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:33.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:34.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:35.009	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:36.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:37.002	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:38.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:39.002	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:40.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:41.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:42.000	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:43.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:43.002	ERROR	auto_update/auto_update.go:26	get registry version error	{"image": "api", "err": "Get \"http://172.16.8.10:5000/v2/api/tags/list\": dial tcp 172.16.8.10:5000: i/o timeout"}
+2023-01-11 16:02:44.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:44.004	ERROR	auto_update/auto_update.go:26	get registry version error	{"image": "api", "err": "Get \"http://172.16.8.10:5000/v2/api/tags/list\": dial tcp 172.16.8.10:5000: i/o timeout"}
+2023-01-11 16:02:45.001	INFO	auto_update/auto_update.go:20	run auto update
+2023-01-11 16:02:45.002	ERROR	auto_update/auto_update.go:26	get registry version error	{"image": "api", "err": "Get \"http://172.16.8.10:5000/v2/api/tags/list\": dial tcp 172.16.8.10:5000: i/o timeout"}

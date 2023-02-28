@@ -1,0 +1,10 @@
+[Unit]
+Description=Systemd Test
+After=network.target
+
+[Service]
+User=root
+# Execute `systemctl daemon-reload` after ExecStart= is changed.
+ExecStart=apiserver-api serve --config  /etc/apiserver-api/api.yaml
+[Install]
+WantedBy=multi-user.target

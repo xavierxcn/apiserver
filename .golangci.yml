@@ -1,0 +1,34 @@
+# Refer to golangci-lint's example config file for more options and information:
+# https://github.com/golangci/golangci-lint/blob/master/.golangci.example.yml
+
+run:
+  timeout: 5m
+  modules-download-mode: readonly
+
+linters-settings:
+  revive:
+    rules:
+    - name: unexported-return
+      disabled: true
+  lll:
+    line-length: 120
+    tab-width: 1
+
+linters:
+  enable:
+    - lll
+    - errcheck
+    - goimports
+    - revive
+    - govet
+    - staticcheck
+
+issues:
+  exclude-use-default: false
+  max-issues-per-linter: 0
+  max-same-issues: 0
+
+skip-dirs-use-default: true
+skip-dirs:
+  - ./test/
+

@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option go_package = "github.com/xavierxcn/apiserver/api/v1/hello;v1";
+
+package product.app.v1;
+
+import "google/api/annotations.proto";
+
+service HelloService {
+	rpc hello(ReqHello) returns (RspHello) {
+		option (google.api.http) = {
+			get: "/hello"
+		};
+	}
+}
+
+message ReqHello {
+	// @inject_tag: json "hello" form:"title" binding:"required"
+	string hello = 1;
+}
+
+message RspHello {
+	// @inject_tag: json "hello"
+	string hello = 1;
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "podName": "demo",
+    "namespace": "default",
+    "imageName": "172.16.8.10:5000/apiserver/demo"
+  }
+]
