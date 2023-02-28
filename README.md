@@ -1,3 +1,4 @@
 # api
 
-iController 对外接口及其相关功能
+golang 服务demo
+使用gin+gorm+protobuf

@@ -7,7 +7,7 @@ serve:
   jwt_secret: 123
 
 mysql:
-  host: 172.16.8.20
+  host: 127.0.0.1
   port: 3306
   user: root
   password: 123456
