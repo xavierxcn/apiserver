@@ -11,7 +11,7 @@ import (
 // taskCmd represents the task command
 var taskCmd = &cobra.Command{
 	Use:   "task",
-	Short: "启动iContainer任务",
+	Short: "启动任务",
 	Long:  `启动任务`,
 	Run: func(cmd *cobra.Command, args []string) {
 		boot.TaskBoot()
