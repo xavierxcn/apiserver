@@ -75,7 +75,7 @@ func (c *Config) initConfig() error {
 	}
 
 	// 需要读取的环境变量的前缀
-	viper.SetEnvPrefix("ICONTAINER")
+	viper.SetEnvPrefix("APISERVER")
 	replacer := strings.NewReplacer(".", "_")
 	viper.SetEnvKeyReplacer(replacer)
 	// 设置读取环境变量中的配置
