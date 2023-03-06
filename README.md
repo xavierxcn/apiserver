@@ -5,3 +5,5 @@ golang 服务demo
 
 ## todo
 - [ ] 参数校验
+- [ ] 使用ent gorm
+- [ ] 命令行工具
